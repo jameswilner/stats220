@@ -1,4 +1,4 @@
-# James Wilner - Stats220
+# **James Wilner - Stats220**
 
 This repo is created in order to create a public way of displaying my achievements through various coding activities
 
