@@ -1,6 +1,6 @@
 # **James Wilner - Stats220**
 
-This repo is created in order to create a public way of displaying my achievements through various coding activities
+This repo is created in order to create a public way of displaying my achievements through various coding activities in STATS220.
 
 ## Background
 
@@ -11,5 +11,9 @@ This repo is created in order to create a public way of displaying my achievemen
 - Basic understanding of multiple different coding languages
 - Ability to troubleshoot and fix minor computer bugs/errors
 - A hollistic understanding of how all the different parts of a computer work together to create a product
+
+**R studio download link:** https://posit.co/download/rstudio-desktop/
+
+**Useful guide to R:** https://www.codecademy.com/resources/docs/r
 
 
