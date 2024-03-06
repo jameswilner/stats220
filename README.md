@@ -11,3 +11,5 @@ I am currently a second year University of Auckland student. In my first year I 
 - Basic understanding of multiple different coding languages
 - Ability to troubleshoot and fix minor computer bugs/errors
 - A hollistic understanding of how all the different parts of a computer work together to create a product
+
+
