@@ -12,8 +12,9 @@ This repo is created in order to create a public way of displaying my achievemen
 - Ability to troubleshoot and fix minor computer bugs/errors
 - A hollistic understanding of how all the different parts of a computer work together to create a product
 
-**R studio download link:** https://posit.co/download/rstudio-desktop/
+## Useful links
 
-**Useful guide to R:** https://www.codecademy.com/resources/docs/r
+1. **R studio download link:** https://posit.co/download/rstudio-desktop/
+2. **Useful guide to R:** https://www.codecademy.com/resources/docs/r
 
 
